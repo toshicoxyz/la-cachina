@@ -1,2 +1,2 @@
 # la-cachina
-Projecto del equipo IT
+Projecto del equipo TI
