@@ -9,6 +9,7 @@ app = Flask(__name__)
 def users_action(id):
     print(request.method)
     print("Me solicitaron: " + id)
+    print("Me solicitaron: " + id)
     return id
 
 
